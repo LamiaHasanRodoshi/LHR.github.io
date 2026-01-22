@@ -1,1 +1,111 @@
-# LHR.github.io
+# Lamia Hasan Rodoshi
+
+
+## 👩‍💻 Profile Summary
+
+I am a **Computer Science graduate researcher** specializing in **AI security, LLM vulnerabilities, and secure system design**. My work focuses on building **automated security tools**, analyzing **attack surfaces in AI agents**, and ensuring **ethical and compliant AI systems**. I have hands-on experience with **LLMs, RAG pipelines, Dockerized testing, and vulnerability PoC generation**.
+
+---
+
+## 🎓 Education
+
+**Master of Science in Computer Science**  
+*University of Texas at Arlington*  
+📅 Aug 2024 – May 2026 (Expected)  
+📊 CGPA: **3.78 / 4.00**
+
+**Bachelor of Science in Computer Science & Engineering**  
+*BRAC University, Bangladesh*  
+📅 May 2019 – Mar 2023  
+📊 CGPA: **3.70 / 4.00**
+
+---
+
+## 🔬 Research Experience
+
+### Graduate Research Assistant  
+**Cyber Guard Research Lab**  
+Supervisor: *Dr. Faysal Hossain Shezan*  
+📅 Oct 2023 – Present  
+
+#### 🧪 Project 1: Automated PoC of Vulnerability Generation with LLMs
+- Built an **agentic LLM-based system** to autonomously generate and validate **PoC exploits**.
+- Supported **9 major frameworks**, including *TensorFlow, Tcpdump, zlib, Binutils,* and more.
+- Integrated **RAG pipelines** with framework documentation, improving PoC success rate by **23%**.
+- Used **Docker-based isolated environments** for automated exploit testing.
+- Reduced **manual vulnerability analysis effort by 60%**.
+
+#### 🛡️ Project 2: AI Agents Vetting System
+- Investigating **backdoor attacks, data poisoning**, and other AI agent attack surfaces.
+- Implementing **policy-based access control** and **privacy enforcement** using **Model Context Protocol (MCP)**.
+- Analyzed **500+ open-source AI agents** for **EU AI Act & GDPR compliance**.
+- Designed a vetting framework to help providers avoid penalties up to **€35M or 7% of annual turnover**.
+
+#### ⚖️ Project 3: Detection of Copyrighted Code in LLM Training Corpus
+- Developed an automated system using **AST-based code clone detection** and license analysis.
+- Applied **NLP techniques** (Fill-Mask, Chain-of-Thought) and prompt engineering.
+- Tested across **5 major LLMs** (GPT-4, Gemini, DeepSeek, LLaMA, Qwen) in a black-box setting.
+- Evaluated on **10,000+ copyrighted code samples** to support ethical AI training.
+
+---
+
+## 🧠 Undergraduate Thesis
+
+**Schizophrenia Detection using Brain MRI**
+- Implemented **multi-channel CNNs** and **transformer-based models** for MRI classification.
+- Improved accuracy using **feature extraction** and **cross-validation**.
+- Focused on **early neurological disorder detection** using medical imaging.
+
+---
+
+## 🌐 Web & Software Projects
+
+### 🔐 Secure Phonebook REST API
+- Built using **Python & FastAPI** with secure **Dockerized testing**.
+- Automated API testing using **FastAPI TestClient**.
+
+### 🦠 COVID Updates & Alerts Platform
+- Backend: **Node.js**
+- Frontend: **React.js**
+
+### 👵 Job Search Platform for Retirees
+- Backend: **Laravel (PHP)**
+- Frontend: **Bootstrap**
+
+---
+
+## 🛠️ Technical Skills
+
+**Programming Languages**  
+Python, Java, C/C++, JavaScript, SQL, PHP  
+
+**AI & Security**  
+LLMs, NLP, Prompt Engineering, AI Agents, MCP,  
+Membership Inference Attacks, Backdoor Attacks, Data Poisoning  
+
+**Frameworks & Tools**  
+PyTorch, TensorFlow, Scikit-learn, Pandas  
+Hugging Face, LangChain, RAG, FAISS  
+FastAPI, Docker, Node.js, React.js, Laravel  
+AWS, Microsoft Azure  
+
+---
+
+## 📄 Publications & Achievements
+
+- **IEEE S&P 2024 (Poster)**  
+  *“Identifying Copyright Code in Training Corpus of Large Language Models”*  
+  Lamia H. Rodoshi et al.
+
+- 🏆 **2nd Runner-Up**, MIST Inter-University ICT Innovation Fest 2021  
+  Dhaka, Bangladesh
+
+---
+
+## 📌 Interests
+
+AI Security · LLM Safety · Vulnerability Research · Ethical AI · Secure Systems
+
+---
+
+⭐ *Feel free to explore my repositories or connect with me on LinkedIn!*
