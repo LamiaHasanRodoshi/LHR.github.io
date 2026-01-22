@@ -1,6 +1,6 @@
 ## 👩‍💻 Profile Summary
 
-I am a dedicated **Computer Science Graduate Research Assistant**, specializing in **Security and Privacy**. My research and professional interest span **Data Analysis, Software development, Artificial Intelligence, AI Agents, NLP, LLMs, Cyber Security, and System Security & Privacy**. My background includes hands-on knowledge of **AI Agents, Model Context Protocols (MCP), RAG pipelines, Dockerized testing, PoC generation and exploits, and Attacks of Generative AI**. I am doing master of science in Computer Science at *University of Texas at Arlington* and completed my bachelor's degree in Computer Science and Engineering from BRAC university of Bangladesh in 2023.
+I am a dedicated **Computer Science Graduate Research Assistant**, specializing in **Security and Privacy**. My research and professional interest span **Data Analysis, Software development, Artificial Intelligence, AI Agents, NLP, LLMs, Cyber Security, and System Security & Privacy**. My background includes hands-on knowledge of **AI Agents, Model Context Protocols (MCP), RAG pipelines, Dockerized testing, PoC generation and exploits, and Attacks of Generative AI**. I am doing master's in Computer Science at *University of Texas at Arlington* and completed my bachelor's degree in Computer Science and Engineering from *BRAC University* of Bangladesh in 2023.
 
 ---
 
