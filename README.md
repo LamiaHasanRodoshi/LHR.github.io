@@ -3,8 +3,7 @@
 
 ## 👩‍💻 Profile Summary
 
-I am a **Computer Science graduate researcher** specializing in **AI security, LLM vulnerabilities, and secure system design**. My work focuses on building **automated security tools**, analyzing **attack surfaces in AI agents**, and ensuring **ethical and compliant AI systems**. I have hands-on experience with **LLMs, RAG pipelines, Dockerized testing, and vulnerability PoC generation**.
-
+I am a dedicated **Computer Science Graduate Research Assistant**, specializing in **Security and Privacy**. My research and professional interest span **Data Analysis, Software development, Artificial Intelligence, AI Agents, NLP, LLMs, Cyber Security, and System Security & Privacy**. My background includes hands-on knowledge of **AI Agents, Model Context Protocols (MCP), RAG pipelines, Dockerized testing, PoC generation and exploits, and Attacks of Generative AI**.
 ---
 
 ## 🎓 Education
