@@ -38,7 +38,7 @@ Supervisor: [*Dr. Faysal Hossain Shezan* ](https://fhshezan.github.io/)
 - Implemented **multi-channel CNNs** and **transformer-based models** for MRI classification.
 - Improved accuracy using **feature extraction** and **cross-validation**.
 - Focused on **early neurological disorder detection** using medical imaging.
-
+**Thesis:** [Application of deep learning in MRI classification of Schizophrenia](https://dspace.bracu.ac.bd/xmlui/handle/10361/22719)
 ---
 
 ## 🌐 Web & Software Projects
